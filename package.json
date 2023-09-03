@@ -1,0 +1,25 @@
+{
+  "name": "present_server",
+  "version": "1.0.0",
+  "description": "Server for a presentation app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aharasymiw/present_server.git"
+  },
+  "author": "Andrew Harasymiw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aharasymiw/present_server/issues"
+  },
+  "homepage": "https://github.com/aharasymiw/present_server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
